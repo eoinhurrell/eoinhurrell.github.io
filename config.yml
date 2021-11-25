@@ -1,5 +1,5 @@
 baseURL: "https://eoinhurrell.com/"
-title: Eoin Hurrell
+# title: Inverse Propensity
 paginate: 5
 theme: PaperMod
 
@@ -8,7 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+# googleAnalytics: UA-123-45
 
 minify:
   disableXML: true
@@ -16,10 +16,10 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Eoin Hurrell
+  # title: Inverse Propensity
   description: "Eoin Hurrell's site"
-  keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  keywords: [Blog, Portfolio]
+  author: Eoin Hurrell
   # author: ["Me", "You"] # multiple authors
   # images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -56,9 +56,9 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Eoin Hurrell
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
+    title: Eoin Hurrell, PhD
+    subtitle: "I solve problems with data"
+    imageUrl: "profile.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
@@ -75,11 +75,11 @@ params:
 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/"
+      url: "https://twitter.com/eoinhurrell"
     - name: linkedin
-      url: "https://linkedin.com"
+      url: "https://linkedin.com/eoinhurrell"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/eoinhurrell"
 
   # analytics:
   #   google:
