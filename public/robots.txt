@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://eoinhurrell.com/sitemap.xml
