@@ -5,16 +5,7 @@
     <link>https://www.eoinhurrell.com/posts/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 25 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.eoinhurrell.com/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>A Blog Post</title>
-      <link>https://www.eoinhurrell.com/posts/a_blog_post/</link>
-      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.eoinhurrell.com/posts/a_blog_post/</guid>
-      <description>This is a test.</description>
-    </item>
-    
+    <lastBuildDate>Fri, 06 Oct 2017 00:00:00 +0100</lastBuildDate><atom:link href="https://www.eoinhurrell.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building a Data Product to Search People in Your Network</title>
       <link>https://www.eoinhurrell.com/posts/building_a_data_product_to_search_people_in_your_network/</link>
@@ -24,6 +15,16 @@
       <description>The below was originally written for and published on the Cohort company blog, Oct 6, 2017.
 Dr. Eoin Hurrell leads Data at Cohort. Here, he reflects on what’s involved in designing a system to ingest and analyze massive volumes of public data, to make predictions on relationships, and things people are knowledgable on.
 Cohort helps you find the people you need, through the people you already know and trust. It sounds simple, but the experience of existing social search is much closer to “I am looking to follow/connect with a person on this site”.</description>
+    </item>
+    
+    <item>
+      <title>Top Books I Read in 2022</title>
+      <link>https://www.eoinhurrell.com/posts/top_books_i_read_in_2022/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.eoinhurrell.com/posts/top_books_i_read_in_2022/</guid>
+      <description>Top Books
+Non-Fiction Ethics by Baruch de Spinoza The Staff Engineer&amp;rsquo;s Path by Tanya Reilly Fiction Peace by Gene Wolfe The Heart of a Dog by Mikhail Bulgakov The Wasp Factory by Iain Banks The Romance of the Three Kingdoms Mason &amp;amp; Dixon by Thomas Pynchon Last Days by Brian Evenson Pattern Recognition by William Gibson The Sailor Who Fell from Grace with the Sea by Yukio Mishima The Secret History by Donna Tartt Dune by Frank Herbert </description>
     </item>
     
   </channel>

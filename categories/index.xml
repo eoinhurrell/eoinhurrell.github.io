@@ -4,25 +4,6 @@
     <title>Categories on </title>
     <link>https://www.eoinhurrell.com/categories/</link>
     <description>Recent content in Categories on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 25 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.eoinhurrell.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>x</title>
-      <link>https://www.eoinhurrell.com/categories/x/</link>
-      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.eoinhurrell.com/categories/x/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>y</title>
-      <link>https://www.eoinhurrell.com/categories/y/</link>
-      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.eoinhurrell.com/categories/y/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://www.eoinhurrell.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
