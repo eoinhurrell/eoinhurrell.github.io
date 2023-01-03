@@ -5,7 +5,7 @@ tags = ["reading", "post", 2022]
 draft = false
 +++
 
-[Top Books](/ox-hugo/top-books.png)
+{{< figure src="/ox-hugo/top-books.png" >}}
 
 
 ## Non-Fiction {#non-fiction}
