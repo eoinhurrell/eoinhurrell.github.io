@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>weeknotes on </title>
+    <link>https://www.eoinhurrell.com/tags/weeknotes/</link>
+    <description>Recent content in weeknotes on </description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://www.eoinhurrell.com/tags/weeknotes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weeknotes - Week 1 - 2023</title>
+      <link>https://www.eoinhurrell.com/posts/weeknotes_week_1_2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.eoinhurrell.com/posts/weeknotes_week_1_2023/</guid>
+      <description>Beginning with work year with a hackathon An excuse to further my Rust learning, and work with a couple of engineers who know more than me on the topic, I learned a lot. Types provide so much, it would be unwise to forget their power and place (felt rusty after years away!)
+Some links I found helpful:
+https://github.com/rochacbruno/py2rs https://google.github.io/comprehensive-rust/ into_rust(): screencasts for learning Rust Commentary:
+Thoughts on Rust After Six Months Rust for Data Engineering—what&amp;rsquo;s the Hype About?</description>
+    </item>
+    
+  </channel>
+</rss>

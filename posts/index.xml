@@ -26,5 +26,17 @@ Cohort helps you find the people you need, through the people you already know a
       <description> Non-Fiction Ethics by Baruch de Spinoza The Staff Engineer&amp;rsquo;s Path by Tanya Reilly Fiction Peace by Gene Wolfe The Heart of a Dog by Mikhail Bulgakov The Wasp Factory by Iain Banks The Romance of the Three Kingdoms Mason &amp;amp; Dixon by Thomas Pynchon Last Days by Brian Evenson Pattern Recognition by William Gibson The Sailor Who Fell from Grace with the Sea by Yukio Mishima The Secret History by Donna Tartt Dune by Frank Herbert </description>
     </item>
     
+    <item>
+      <title>Weeknotes - Week 1 - 2023</title>
+      <link>https://www.eoinhurrell.com/posts/weeknotes_week_1_2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.eoinhurrell.com/posts/weeknotes_week_1_2023/</guid>
+      <description>Beginning with work year with a hackathon An excuse to further my Rust learning, and work with a couple of engineers who know more than me on the topic, I learned a lot. Types provide so much, it would be unwise to forget their power and place (felt rusty after years away!)
+Some links I found helpful:
+https://github.com/rochacbruno/py2rs https://google.github.io/comprehensive-rust/ into_rust(): screencasts for learning Rust Commentary:
+Thoughts on Rust After Six Months Rust for Data Engineering—what&amp;rsquo;s the Hype About?</description>
+    </item>
+    
   </channel>
 </rss>
