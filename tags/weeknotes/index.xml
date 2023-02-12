@@ -5,7 +5,21 @@
     <link>https://www.eoinhurrell.com/tags/weeknotes/</link>
     <description>Recent content in weeknotes on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 05 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.eoinhurrell.com/tags/weeknotes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.eoinhurrell.com/tags/weeknotes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weeknotes - Week 6 - 2023</title>
+      <link>https://www.eoinhurrell.com/posts/weeknotes_week_6_2023/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.eoinhurrell.com/posts/weeknotes_week_6_2023/</guid>
+      <description>Reading Blueprints for Recommender System Architectures: 10th Anniversary Edition
+A lot to take from this, Amatriain has both assembled architectures from industry leaders and revisited his own work at some of the biggest recsys companies in the world.
+Real-Time Semantic Search Demo
+I&amp;rsquo;ve built a few systems like this, it&amp;rsquo;s great to see they are getting easier to build.
+All Programming Philosophies Are About State
+All code is data, I&amp;rsquo;m sure of it.</description>
+    </item>
+    
     <item>
       <title>Weeknotes - Week 5 - 2023</title>
       <link>https://www.eoinhurrell.com/posts/weeknotes_week_5_2023/</link>
