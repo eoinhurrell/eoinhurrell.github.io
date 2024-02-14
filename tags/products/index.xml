@@ -5,17 +5,17 @@
     <link>https://www.eoinhurrell.com/tags/products/</link>
     <description>Recent content in products on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 06 Oct 2017 00:00:00 +0100</lastBuildDate><atom:link href="https://www.eoinhurrell.com/tags/products/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 06 Oct 2017 00:00:00 +0100</lastBuildDate>
+    <atom:link href="https://www.eoinhurrell.com/tags/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building a Data Product to Search People in Your Network</title>
       <link>https://www.eoinhurrell.com/posts/building_a_data_product_to_search_people_in_your_network/</link>
       <pubDate>Fri, 06 Oct 2017 00:00:00 +0100</pubDate>
-      
       <guid>https://www.eoinhurrell.com/posts/building_a_data_product_to_search_people_in_your_network/</guid>
       <description>The below was originally written for and published on the Cohort company blog, Oct 6, 2017.
 Dr. Eoin Hurrell leads Data at Cohort. Here, he reflects on what’s involved in designing a system to ingest and analyze massive volumes of public data, to make predictions on relationships, and things people are knowledgable on.
 Cohort helps you find the people you need, through the people you already know and trust. It sounds simple, but the experience of existing social search is much closer to “I am looking to follow/connect with a person on this site”.</description>
     </item>
-    
   </channel>
 </rss>

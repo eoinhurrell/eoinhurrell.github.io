@@ -5,12 +5,30 @@
     <link>https://www.eoinhurrell.com/posts/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 26 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.eoinhurrell.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.eoinhurrell.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Retrieval-Augmented Generation Experiments (Part 1)</title>
+      <link>https://www.eoinhurrell.com/posts/20240118105119-rag-blog-part-1-how/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.eoinhurrell.com/posts/20240118105119-rag-blog-part-1-how/</guid>
+      <description>I&amp;rsquo;ve been researching LLMs, trying to find practical ways I can use them for myself, in my work or at home. One area that interests me is as tool to better understand the notes I&amp;rsquo;ve taken, topics I frequently learn about and areas I might want to explore more. I&amp;rsquo;m not the first to explore this territory (https://x.com/fortelabs/status/1749861644245848361).
+I&amp;rsquo;ll be looking at using a local model and building the system myself.</description>
+    </item>
+    <item>
+      <title>Weeknotes - Week 9 - 2023</title>
+      <link>https://www.eoinhurrell.com/posts/weeknotes_week_9_2023/</link>
+      <pubDate>Sun, 05 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.eoinhurrell.com/posts/weeknotes_week_9_2023/</guid>
+      <description>Reading A quiet week, not much read.
+How I Give Formal Written Feedback
+Primary thing of note I read this week. Good guidelines on an explicit process for feedback.</description>
+    </item>
     <item>
       <title>Weeknotes - Week 8 - 2023</title>
       <link>https://www.eoinhurrell.com/posts/weeknotes_week_8_2023/</link>
       <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.eoinhurrell.com/posts/weeknotes_week_8_2023/</guid>
       <description>Reading Gene Wolfe Was Sci-Fi’s Most Enigmatic Writer
 Always good to read about Wolfe and the slight renaissance his work is seeing.
@@ -20,22 +38,18 @@ I&amp;rsquo;ll frequently read about how other people set up their work, just to
 I&amp;rsquo;d forgotten about mosh, glad to see it seeing use.
 Why Programmers Burnout Into Existential Depression: The Broken Promise of Computing</description>
     </item>
-    
     <item>
       <title>Weeknotes - Week 7 - 2023</title>
       <link>https://www.eoinhurrell.com/posts/weeknotes_week_7_2023/</link>
       <pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.eoinhurrell.com/posts/weeknotes_week_7_2023/</guid>
       <description>Reading ChatGPT Isn&amp;rsquo;t a Great Leap Forward, It&amp;rsquo;s an Expensive Deal With the Devil Programming AIs Worry Me How To&amp;hellip; Use ChatGPT to Boost Your Writing Chatbots Are Not a Good Replacement for Search Engines
 A lot of chatGPT reading this week, a lot of experts understandably skeptical, or worse, missing its flaws and being overly impressed. Chat continues to be a poor search interface though.</description>
     </item>
-    
     <item>
       <title>Weeknotes - Week 6 - 2023</title>
       <link>https://www.eoinhurrell.com/posts/weeknotes_week_6_2023/</link>
       <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.eoinhurrell.com/posts/weeknotes_week_6_2023/</guid>
       <description>Reading Blueprints for Recommender System Architectures: 10th Anniversary Edition
 A lot to take from this, Amatriain has both assembled architectures from industry leaders and revisited his own work at some of the biggest recsys companies in the world.
@@ -44,12 +58,10 @@ I&amp;rsquo;ve built a few systems like this, it&amp;rsquo;s great to see they a
 All Programming Philosophies Are About State
 All code is data, I&amp;rsquo;m sure of it.</description>
     </item>
-    
     <item>
       <title>Weeknotes - Week 5 - 2023</title>
       <link>https://www.eoinhurrell.com/posts/weeknotes_week_5_2023/</link>
       <pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.eoinhurrell.com/posts/weeknotes_week_5_2023/</guid>
       <description>Watching Tár (2022) - An excellent film
 Reading The Open Secret of Google Search &amp;amp; https://twitter.com/alex_buraks/status/1618988134850785280
@@ -58,12 +70,10 @@ Two Hunters by Astrid Anne Rose
 A short horror story I thought was pretty good, some strong imagery.
 What Problem Are You Trying to Solve?</description>
     </item>
-    
     <item>
       <title>Weeknotes - Week 4 - 2023</title>
       <link>https://www.eoinhurrell.com/posts/weeknotes_week_4_2023/</link>
       <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.eoinhurrell.com/posts/weeknotes_week_4_2023/</guid>
       <description>Watching Mages and Murderdads - Planescape Torment
 A fun show, pointing out as they begin Planescape Torment how much it and its setting owe to the work of Gene Wolfe, specifically The Book of The New Sun, but I think Latro in the Mist would be another apt touchstone.
@@ -72,62 +82,51 @@ Rodney Brooks continues to bring sobering facts to much-hyped discussion.
 The Dangers of Over-Engineering
 Thinking a lot about simplification and connecting engineering priorities and business priorities.</description>
     </item>
-    
     <item>
       <title>Weeknotes - Week 3 - 2023</title>
       <link>https://www.eoinhurrell.com/posts/weeknotes_week_3_2023/</link>
       <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.eoinhurrell.com/posts/weeknotes_week_3_2023/</guid>
       <description>The Iliad I&amp;rsquo;ve been listening to The Iliad, specifically the Penguin Classics Rieu translation. Excellent stuff, all the tropes of action films, embedded deep at the start of the Greek tradition. Brings back memories of classical studies in secondary school.
 I listened to Elizabeth Vandiver&amp;rsquo;s The Iliad of Homer course from The Great Courses, which was short and excellent.
 Things I&amp;rsquo;ve been reading Architecture diagrams should be code
 Discoverable docs are a problem with as many answers as there are people thinking about it, this one seems good if you&amp;rsquo;re not already committed to other tools.</description>
     </item>
-    
     <item>
       <title>Weeknotes - Week 2 - 2023</title>
       <link>https://www.eoinhurrell.com/posts/weeknotes_week_2_2023/</link>
       <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.eoinhurrell.com/posts/weeknotes_week_2_2023/</guid>
       <description>Swrve got acquired Per MessageGears Acquires Mobile Marketing Leader Swrve Great news for all involved, happy for the team.
 Finished Spinoza&amp;rsquo;s Ethics Fantastically interesting book, a lot to digest.
 Things I&amp;rsquo;ve been reading Data Systems Tend Towards Production Bytesize Architecture Sessions Design Docs, Markdown, and Git Logging Practices I Follow Pip Install Data_team &amp;gt; A lot of technical reading this week
 The Power of Journaling Writing and Labelling in a Journal Writing Docs Well: Why Should a Software Engineer Care?</description>
     </item>
-    
     <item>
       <title>Building a Data Product to Search People in Your Network</title>
       <link>https://www.eoinhurrell.com/posts/building_a_data_product_to_search_people_in_your_network/</link>
       <pubDate>Fri, 06 Oct 2017 00:00:00 +0100</pubDate>
-      
       <guid>https://www.eoinhurrell.com/posts/building_a_data_product_to_search_people_in_your_network/</guid>
       <description>The below was originally written for and published on the Cohort company blog, Oct 6, 2017.
 Dr. Eoin Hurrell leads Data at Cohort. Here, he reflects on what’s involved in designing a system to ingest and analyze massive volumes of public data, to make predictions on relationships, and things people are knowledgable on.
 Cohort helps you find the people you need, through the people you already know and trust. It sounds simple, but the experience of existing social search is much closer to “I am looking to follow/connect with a person on this site”.</description>
     </item>
-    
     <item>
       <title>Top Books I Read in 2022</title>
       <link>https://www.eoinhurrell.com/posts/top_books_i_read_in_2022/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.eoinhurrell.com/posts/top_books_i_read_in_2022/</guid>
       <description> Non-Fiction Ethics by Baruch de Spinoza The Staff Engineer&amp;rsquo;s Path by Tanya Reilly Fiction Peace by Gene Wolfe The Heart of a Dog by Mikhail Bulgakov The Wasp Factory by Iain Banks The Romance of the Three Kingdoms Mason &amp;amp; Dixon by Thomas Pynchon Last Days by Brian Evenson Pattern Recognition by William Gibson The Sailor Who Fell from Grace with the Sea by Yukio Mishima The Secret History by Donna Tartt Dune by Frank Herbert </description>
     </item>
-    
     <item>
       <title>Weeknotes - Week 1 - 2023</title>
       <link>https://www.eoinhurrell.com/posts/weeknotes_week_1_2023/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.eoinhurrell.com/posts/weeknotes_week_1_2023/</guid>
       <description>Beginning with work year with a hackathon An excuse to further my Rust learning, and work with a couple of engineers who know more than me on the topic, I learned a lot. Types provide so much, it would be unwise to forget their power and place (felt rusty after years away!)
 Some links I found helpful:
 https://github.com/rochacbruno/py2rs https://google.github.io/comprehensive-rust/ into_rust(): screencasts for learning Rust Commentary:
 Thoughts on Rust After Six Months Rust for Data Engineering—what&amp;rsquo;s the Hype About?</description>
     </item>
-    
   </channel>
 </rss>
