@@ -6,13 +6,13 @@
     <description>Recent content in post on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.eoinhurrell.com/tags/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Retrieval-Augmented Generation Experiments (Part 1)</title>
-      <link>https://www.eoinhurrell.com/posts/20240118105119-rag-blog-part-1-how/</link>
-      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.eoinhurrell.com/posts/20240118105119-rag-blog-part-1-how/</guid>
+      <link>https://www.eoinhurrell.com/posts/20240214-rag-blog-part-1-how/</link>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.eoinhurrell.com/posts/20240214-rag-blog-part-1-how/</guid>
       <description>I&amp;rsquo;ve been researching LLMs, trying to find practical ways I can use them for myself, in my work or at home. One area that interests me is as tool to better understand the notes I&amp;rsquo;ve taken, topics I frequently learn about and areas I might want to explore more. I&amp;rsquo;m not the first to explore this territory (https://x.com/fortelabs/status/1749861644245848361).
 I&amp;rsquo;ll be looking at using a local model and building the system myself.</description>
     </item>
