@@ -1,7 +1,7 @@
 +++
 title = "Retrieval-Augmented Generation Experiments (Part 1)"
 author = ["Eoin H"]
-publishDate = 2024-01-25T00:00:00+00:00
+publishDate = 2024-02-14T00:00:00+00:00
 tags = ["post"]
 draft = false
 +++
