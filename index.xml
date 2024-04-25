@@ -6,8 +6,15 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.eoinhurrell.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Enrichment with LLMs for Obsidian: Better Tags</title>
+      <link>https://www.eoinhurrell.com/posts/20240425-data-enrichment-llm-tags/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.eoinhurrell.com/posts/20240425-data-enrichment-llm-tags/</guid>
+      <description>One issue I have using Obsidian is that I feel I don&amp;rsquo;t use enough of its feature set. I have lots of notes, but few are tagged particularly well, so it makes tags less useful overall. I would like to be able to make surprising connections and surface related items, which means imprecise tags are preferable to no tags, so false positives are less of a concern to me, and very low risk.</description>
+    </item>
     <item>
       <title>Retrieval-Augmented Generation Experiments (Part 1)</title>
       <link>https://www.eoinhurrell.com/posts/20240214-rag-blog-part-1-how/</link>
