@@ -6,8 +6,16 @@
     <description>Recent content in Post on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.eoinhurrell.com/tags/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Easy Similarity Search with Custom Vector Embeddings and Typesense</title>
+      <link>https://www.eoinhurrell.com/posts/20240603-easy-semantic-search-typsesense/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.eoinhurrell.com/posts/20240603-easy-semantic-search-typsesense/</guid>
+      <description>I&amp;rsquo;ve been kicking the tires on Typesense, an open-source search engine and alternative to Elasticsearch, for a personal project. So far I&amp;rsquo;m quite impressed with it. This is a small post recording how easy it was to set up vector embedding fields using a custom model.
+It is getting much easier to build semantic search applications. In previous work when I was setting up semantic search it was both exciting and frustrating, because the tooling wasn&amp;rsquo;t there and you had to build basically every piece yourself.</description>
+    </item>
     <item>
       <title>Data Enrichment with LLMs for Obsidian: Better Tags</title>
       <link>https://www.eoinhurrell.com/posts/20240425-data-enrichment-llm-tags/</link>
