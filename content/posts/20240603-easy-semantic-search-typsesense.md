@@ -1,5 +1,5 @@
 +++
-title = "Easy Similarity Search with Custom Vector Embeddings and Typesense"
+title = "Easy Semantic Search with Custom Vector Embeddings and Typesense"
 author = ["Eoin H"]
 publishDate = 2024-06-03T00:00:00+00:00
 tags = ["post"]
