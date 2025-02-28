@@ -88,9 +88,9 @@ params:
     - name: github
       url: "https://github.com/eoinhurrell"
 
-  # analytics:
-  #   google:
-  #     SiteVerificationTag: "XYZabc"
+  analytics:
+    google:
+      SiteVerificationTag: "G-CJ2ZWR4583"
   #   bing:
   #     SiteVerificationTag: "XYZabc"
   #   yandex:
