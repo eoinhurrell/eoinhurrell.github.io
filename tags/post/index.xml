@@ -4,7 +4,7 @@
     <title>Post on </title>
     <link>https://www.eoinhurrell.com/tags/post/</link>
     <description>Recent content in Post on </description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.eoinhurrell.com/tags/post/index.xml" rel="self" type="application/rss+xml" />
@@ -13,126 +13,230 @@
       <link>https://www.eoinhurrell.com/posts/20240603-easy-semantic-search-typsesense/</link>
       <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://www.eoinhurrell.com/posts/20240603-easy-semantic-search-typsesense/</guid>
-      <description>I&amp;rsquo;ve been kicking the tires on Typesense, an open-source search engine and alternative to Elasticsearch, for a personal project. So far I&amp;rsquo;m quite impressed with it. This is a small post recording how easy it was to set up vector embedding fields using a custom model.
-It is getting much easier to build semantic search applications. In previous work when I was setting up semantic search it was both exciting and frustrating, because the tooling wasn&amp;rsquo;t there and you had to build basically every piece yourself.</description>
+      <description>&lt;p&gt;I&amp;rsquo;ve been kicking the tires on &lt;a href=&#34;https://typesense.org/&#34;&gt;Typesense&lt;/a&gt;, an open-source search engine and alternative to &lt;a href=&#34;https://www.elastic.co/elasticsearch&#34;&gt;Elasticsearch&lt;/a&gt;, for a personal project. So far I&amp;rsquo;m quite impressed with it. This is a small post recording how easy it was to set up vector embedding fields using a custom model.&lt;/p&gt;
+&lt;p&gt;It is getting much easier to build semantic search applications. In previous work when I was setting up semantic search it was both exciting and frustrating, because the tooling wasn&amp;rsquo;t there and you had to build basically every piece yourself. It was cutting-edge, but you had to make your own cutting tools before you really saw the benefit. In my case, I had been using Elasticsearch and had to augment it with &lt;a href=&#34;https://github.com/spotify/annoy&#34;&gt;annoy&lt;/a&gt;, (using approximate K nearest neighbour in place of cosine distance, until Elasticsearch added vector search support).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Data Enrichment with LLMs for Obsidian: Better Tags</title>
       <link>https://www.eoinhurrell.com/posts/20240425-data-enrichment-llm-tags/</link>
       <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://www.eoinhurrell.com/posts/20240425-data-enrichment-llm-tags/</guid>
-      <description>One issue I have using Obsidian is that I feel I don&amp;rsquo;t use enough of its feature set. I have lots of notes, but few are tagged particularly well, so it makes tags less useful overall. I would like to be able to make surprising connections and surface related items, which means imprecise tags are preferable to no tags, so false positives are less of a concern to me, and very low risk.</description>
+      <description>&lt;p&gt;One issue I have using Obsidian is that I feel I don&amp;rsquo;t use enough of its feature set. I have lots of notes, but few are tagged particularly well, so it makes tags less useful overall. I would like to be able to make surprising connections and surface related items, which means imprecise tags are preferable to no tags, so false positives are less of a concern to me, and very low risk.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Retrieval-Augmented Generation Experiments (Part 1)</title>
       <link>https://www.eoinhurrell.com/posts/20240214-rag-blog-part-1-how/</link>
       <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://www.eoinhurrell.com/posts/20240214-rag-blog-part-1-how/</guid>
-      <description>I&amp;rsquo;ve been researching LLMs, trying to find practical ways I can use them for myself, in my work or at home. One area that interests me is as tool to better understand the notes I&amp;rsquo;ve taken, topics I frequently learn about and areas I might want to explore more. I&amp;rsquo;m not the first to explore this territory (https://x.com/fortelabs/status/1749861644245848361).
-I&amp;rsquo;ll be looking at using a local model and building the system myself.</description>
+      <description>&lt;p&gt;I&amp;rsquo;ve been researching LLMs, trying to find practical ways I can use them for myself, in my work or at home. One area that interests me is as tool to better understand the notes I&amp;rsquo;ve taken, topics I frequently learn about and areas I might want to explore more. I&amp;rsquo;m not the first to explore this territory (&lt;a href=&#34;https://x.com/fortelabs/status/1749861644245848361)&#34;&gt;https://x.com/fortelabs/status/1749861644245848361)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ll be looking at using a local model and building the system myself. I&amp;rsquo;m going to detail how I&amp;rsquo;ve built a toy system to chat with my notes. I&amp;rsquo;ll be using Ollama&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; to serve an open-source model locally, and building the application using LangChain&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; and StreamLit&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Weeknotes - Week 9 - 2023</title>
       <link>https://www.eoinhurrell.com/posts/weeknotes_week_9_2023/</link>
       <pubDate>Sun, 05 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://www.eoinhurrell.com/posts/weeknotes_week_9_2023/</guid>
-      <description>Reading A quiet week, not much read.
-How I Give Formal Written Feedback
-Primary thing of note I read this week. Good guidelines on an explicit process for feedback.</description>
+      <description>&lt;h2 id=&#34;reading&#34;&gt;Reading&lt;/h2&gt;
+&lt;p&gt;A quiet week, not much read.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://quad.writeas.com/how-i-give-formal-written-feedback&#34;&gt;How I Give Formal Written Feedback&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Primary thing of note I read this week. Good guidelines on an explicit process
+for feedback.&lt;/p&gt;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>Weeknotes - Week 8 - 2023</title>
       <link>https://www.eoinhurrell.com/posts/weeknotes_week_8_2023/</link>
       <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://www.eoinhurrell.com/posts/weeknotes_week_8_2023/</guid>
-      <description>Reading Gene Wolfe Was Sci-Fi’s Most Enigmatic Writer
-Always good to read about Wolfe and the slight renaissance his work is seeing.
-Interesting to learn Wolfe&amp;rsquo;s papers are in Northern Illinois University
-2022 State of the Tools
-I&amp;rsquo;ll frequently read about how other people set up their work, just to learn about tools people find useful.
-I&amp;rsquo;d forgotten about mosh, glad to see it seeing use.
-Why Programmers Burnout Into Existential Depression: The Broken Promise of Computing</description>
+      <description>&lt;h2 id=&#34;reading&#34;&gt;Reading&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.wired.com/2023/01/geeks-guide-gene-wolfe/&#34;&gt;Gene Wolfe Was Sci-Fi’s Most Enigmatic Writer&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Always good to read about Wolfe and the slight renaissance his work is seeing.&lt;/p&gt;
+&lt;p&gt;Interesting to learn Wolfe&amp;rsquo;s papers are in Northern Illinois University&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://md.ekstrandom.net/blog/2022/12/tools&#34;&gt;2022 State of the Tools&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I&amp;rsquo;ll frequently read about how other people set up their work, just to learn
+about tools people find useful.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;d forgotten about mosh, glad to see it seeing use.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://phsoftware.substack.com/p/why-programmers-burnout-into-existential&#34;&gt;Why Programmers Burnout Into Existential Depression: The Broken Promise of Computing&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Weeknotes - Week 7 - 2023</title>
       <link>https://www.eoinhurrell.com/posts/weeknotes_week_7_2023/</link>
       <pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://www.eoinhurrell.com/posts/weeknotes_week_7_2023/</guid>
-      <description>Reading ChatGPT Isn&amp;rsquo;t a Great Leap Forward, It&amp;rsquo;s an Expensive Deal With the Devil Programming AIs Worry Me How To&amp;hellip; Use ChatGPT to Boost Your Writing Chatbots Are Not a Good Replacement for Search Engines
-A lot of chatGPT reading this week, a lot of experts understandably skeptical, or worse, missing its flaws and being overly impressed. Chat continues to be a poor search interface though.</description>
+      <description>&lt;h2 id=&#34;reading&#34;&gt;Reading&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.theguardian.com/commentisfree/2023/feb/04/chatgpt-isnt-a-great-leap-forward-its-an-expensive-deal-with-the-devil&#34;&gt;ChatGPT Isn&amp;rsquo;t a Great Leap Forward, It&amp;rsquo;s an Expensive Deal With the Devil&lt;/a&gt;
+&lt;a href=&#34;https://buttondown.email/hillelwayne/archive/programming-ais-worry-me/&#34;&gt;Programming AIs Worry Me&lt;/a&gt;
+&lt;a href=&#34;https://oneusefulthing.substack.com/p/how-to-use-chatgpt-to-boost-your&#34;&gt;How To&amp;hellip; Use ChatGPT to Boost Your Writing&lt;/a&gt;
+&lt;a href=&#34;https://twitter.com/emilymbender/status/1606734504412221440&#34;&gt;Chatbots Are Not a Good Replacement for Search Engines&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A lot of chatGPT reading this week, a lot of experts understandably skeptical,
+or worse, missing its flaws and being overly impressed. Chat continues to be a
+poor search interface though.&lt;/p&gt;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>Weeknotes - Week 6 - 2023</title>
       <link>https://www.eoinhurrell.com/posts/weeknotes_week_6_2023/</link>
       <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://www.eoinhurrell.com/posts/weeknotes_week_6_2023/</guid>
-      <description>Reading Blueprints for Recommender System Architectures: 10th Anniversary Edition
-A lot to take from this, Amatriain has both assembled architectures from industry leaders and revisited his own work at some of the biggest recsys companies in the world.
-Real-Time Semantic Search Demo
-I&amp;rsquo;ve built a few systems like this, it&amp;rsquo;s great to see they are getting easier to build.
-All Programming Philosophies Are About State
-All code is data, I&amp;rsquo;m sure of it.</description>
+      <description>&lt;h2 id=&#34;reading&#34;&gt;Reading&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://amatriain.net/blog/RecsysArchitectures&#34;&gt;Blueprints for Recommender System Architectures: 10th Anniversary Edition&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A lot to take from this, Amatriain has both assembled architectures from
+industry leaders and revisited his own work at some of the biggest recsys
+companies in the world.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://paulw.tokyo/post/real-time-semantic-search-demo/&#34;&gt;Real-Time Semantic Search Demo&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I&amp;rsquo;ve built a few systems like this, it&amp;rsquo;s great to see they are getting easier to build.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.worldofbs.com/minimize-state/&#34;&gt;All Programming Philosophies Are About State&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;All code is data, I&amp;rsquo;m sure of it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Weeknotes - Week 5 - 2023</title>
       <link>https://www.eoinhurrell.com/posts/weeknotes_week_5_2023/</link>
       <pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://www.eoinhurrell.com/posts/weeknotes_week_5_2023/</guid>
-      <description>Watching Tár (2022) - An excellent film
-Reading The Open Secret of Google Search &amp;amp; https://twitter.com/alex_buraks/status/1618988134850785280
-Reading a bit about search as Yandex&amp;rsquo;s source code was leaked. Interesting to get some insight into what factors are considered for ranking, age of links is a novel one.
-Two Hunters by Astrid Anne Rose
-A short horror story I thought was pretty good, some strong imagery.
-What Problem Are You Trying to Solve?</description>
+      <description>&lt;h2 id=&#34;watching&#34;&gt;Watching&lt;/h2&gt;
+&lt;p&gt;Tár (2022) - An excellent film&lt;/p&gt;
+&lt;h2 id=&#34;reading&#34;&gt;Reading&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.theatlantic.com/ideas/archive/2022/06/google-search-algorithm-internet/661325/&#34;&gt;The Open Secret of Google Search&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://twitter.com/alex_buraks/status/1618988134850785280&#34;&gt;https://twitter.com/alex_buraks/status/1618988134850785280&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Reading a bit about search as Yandex&amp;rsquo;s source code was leaked. Interesting to
+get some insight into what factors are considered for ranking, age of links is a
+novel one.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://astridannerose.gumroad.com/l/CBPXt?layout=profile&#34;&gt;Two Hunters by Astrid Anne Rose&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A short horror story I thought was pretty good, some strong imagery.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://riclage.medium.com/what-problem-are-you-trying-to-solve-b7ac284244b9&#34;&gt;What Problem Are You Trying to Solve?&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Weeknotes - Week 4 - 2023</title>
       <link>https://www.eoinhurrell.com/posts/weeknotes_week_4_2023/</link>
       <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://www.eoinhurrell.com/posts/weeknotes_week_4_2023/</guid>
-      <description>Watching Mages and Murderdads - Planescape Torment
-A fun show, pointing out as they begin Planescape Torment how much it and its setting owe to the work of Gene Wolfe, specifically The Book of The New Sun, but I think Latro in the Mist would be another apt touchstone.
-Reading Predictions Scorecard, 2023 January 01
-Rodney Brooks continues to bring sobering facts to much-hyped discussion.
-The Dangers of Over-Engineering
-Thinking a lot about simplification and connecting engineering priorities and business priorities.</description>
+      <description>&lt;h2 id=&#34;watching&#34;&gt;Watching&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ebY5VOfTlFU&amp;amp;t=0s&#34;&gt;Mages and Murderdads - Planescape Torment&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A fun show, pointing out as they begin Planescape Torment how much it and its
+setting owe to the work of Gene Wolfe, specifically The Book of The New Sun, but
+I think Latro in the Mist would be another apt touchstone.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id=&#34;reading&#34;&gt;Reading&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://rodneybrooks.com/predictions-scorecard-2023-january-01/&#34;&gt;Predictions Scorecard, 2023 January 01&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Rodney Brooks continues to bring sobering facts to much-hyped discussion.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://betterprogramming.pub/the-dangers-of-over-engineering-d8c0d52b880a&#34;&gt;The Dangers of Over-Engineering&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Weeknotes - Week 3 - 2023</title>
       <link>https://www.eoinhurrell.com/posts/weeknotes_week_3_2023/</link>
       <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://www.eoinhurrell.com/posts/weeknotes_week_3_2023/</guid>
-      <description>The Iliad I&amp;rsquo;ve been listening to The Iliad, specifically the Penguin Classics Rieu translation. Excellent stuff, all the tropes of action films, embedded deep at the start of the Greek tradition. Brings back memories of classical studies in secondary school.
-I listened to Elizabeth Vandiver&amp;rsquo;s The Iliad of Homer course from The Great Courses, which was short and excellent.
-Things I&amp;rsquo;ve been reading Architecture diagrams should be code
-Discoverable docs are a problem with as many answers as there are people thinking about it, this one seems good if you&amp;rsquo;re not already committed to other tools.</description>
+      <description>&lt;h2 id=&#34;the-iliad&#34;&gt;The Iliad&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;ve been listening to The Iliad, specifically the &lt;a href=&#34;https://www.audible.co.uk/pd/The-Iliad-Audiobook/0241440920&#34;&gt;Penguin Classics&lt;/a&gt; Rieu
+translation. Excellent stuff, all the tropes of action films, embedded deep at
+the start of the Greek tradition. Brings back memories of classical studies in
+secondary school.&lt;/p&gt;
+&lt;p&gt;I listened to Elizabeth Vandiver&amp;rsquo;s &lt;a href=&#34;https://www.audible.co.uk/pd/The-Iliad-of-Homer-Audiobook/B00DCX3LGM&#34;&gt;The Iliad of Homer&lt;/a&gt; course from The Great
+Courses, which was short and excellent.&lt;/p&gt;
+&lt;h2 id=&#34;things-i-ve-been-reading&#34;&gt;Things I&amp;rsquo;ve been reading&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://brianmckenna.org/blog/architecture_code&#34;&gt;Architecture diagrams should be code&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Discoverable docs are a problem with as many answers as there are people
+thinking about it, this one seems good if you&amp;rsquo;re not already committed to other
+tools.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Weeknotes - Week 2 - 2023</title>
       <link>https://www.eoinhurrell.com/posts/weeknotes_week_2_2023/</link>
       <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://www.eoinhurrell.com/posts/weeknotes_week_2_2023/</guid>
-      <description>Swrve got acquired Per MessageGears Acquires Mobile Marketing Leader Swrve Great news for all involved, happy for the team.
-Finished Spinoza&amp;rsquo;s Ethics Fantastically interesting book, a lot to digest.
-Things I&amp;rsquo;ve been reading Data Systems Tend Towards Production Bytesize Architecture Sessions Design Docs, Markdown, and Git Logging Practices I Follow Pip Install Data_team &amp;gt; A lot of technical reading this week
-The Power of Journaling Writing and Labelling in a Journal Writing Docs Well: Why Should a Software Engineer Care?</description>
+      <description>&lt;h2 id=&#34;swrve-got-acquired&#34;&gt;Swrve got acquired&lt;/h2&gt;
+&lt;p&gt;Per &lt;a href=&#34;https://www.swrve.com/company/press/messagegears-acquires-mobile-marketing-leader-swrve&#34;&gt;MessageGears Acquires Mobile Marketing Leader Swrve&lt;/a&gt;
+Great news for all involved, happy for the team.&lt;/p&gt;
+&lt;h2 id=&#34;finished-spinoza-s-ethics&#34;&gt;Finished Spinoza&amp;rsquo;s Ethics&lt;/h2&gt;
+&lt;p&gt;Fantastically interesting book, a lot to digest.&lt;/p&gt;
+&lt;h2 id=&#34;things-i-ve-been-reading&#34;&gt;Things I&amp;rsquo;ve been reading&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ian-macomber.medium.com/data-systems-tend-towards-production-be5a86f65561&#34;&gt;Data Systems Tend Towards Production&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.roundcrisis.com/2021/09/28/bytesize-architecture-sessions/&#34;&gt;Bytesize Architecture Sessions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://caitiem.com/2020/03/29/design-docs-markdown-and-git/&#34;&gt;Design Docs, Markdown, and Git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.16elt.com/2023/01/06/logging-practices-I-follow/&#34;&gt;Logging Practices I Follow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.adventofdata.com/python-pip-package-for-data-team/&#34;&gt;Pip Install Data_team&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;gt; A lot of technical reading this week&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.daviddaly.me/2022/12/the-power-of-journaling.html&#34;&gt;The Power of Journaling&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.daviddaly.me/2022/12/writing-and-labelling-in-journal.html&#34;&gt;Writing and Labelling in a Journal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://surfingcomplexity.blog/2022/11/24/writing-docs-well-why-should-a-software-engineer-care/&#34;&gt;Writing Docs Well: Why Should a Software Engineer Care?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;gt; Writing is a core development skill, making it a daily practice only helps&lt;/p&gt;</description>
     </item>
     <item>
       <title>Top Books I Read in 2022</title>
       <link>https://www.eoinhurrell.com/posts/top_books_i_read_in_2022/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.eoinhurrell.com/posts/top_books_i_read_in_2022/</guid>
-      <description> Non-Fiction Ethics by Baruch de Spinoza The Staff Engineer&amp;rsquo;s Path by Tanya Reilly Fiction Peace by Gene Wolfe The Heart of a Dog by Mikhail Bulgakov The Wasp Factory by Iain Banks The Romance of the Three Kingdoms Mason &amp;amp; Dixon by Thomas Pynchon Last Days by Brian Evenson Pattern Recognition by William Gibson The Sailor Who Fell from Grace with the Sea by Yukio Mishima The Secret History by Donna Tartt Dune by Frank Herbert </description>
+      <description>&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://www.eoinhurrell.com/ox-hugo/top-books.png&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;non-fiction&#34;&gt;Non-Fiction&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ethics by Baruch de Spinoza&lt;/li&gt;
+&lt;li&gt;The Staff Engineer&amp;rsquo;s Path by Tanya Reilly&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;fiction&#34;&gt;Fiction&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Peace by Gene Wolfe&lt;/li&gt;
+&lt;li&gt;The Heart of a Dog by Mikhail Bulgakov&lt;/li&gt;
+&lt;li&gt;The Wasp Factory by Iain Banks&lt;/li&gt;
+&lt;li&gt;The Romance of the Three Kingdoms&lt;/li&gt;
+&lt;li&gt;Mason &amp;amp; Dixon by Thomas Pynchon&lt;/li&gt;
+&lt;li&gt;Last Days by Brian Evenson&lt;/li&gt;
+&lt;li&gt;Pattern Recognition by William Gibson&lt;/li&gt;
+&lt;li&gt;The Sailor Who Fell from Grace with the Sea by Yukio Mishima&lt;/li&gt;
+&lt;li&gt;The Secret History by Donna Tartt&lt;/li&gt;
+&lt;li&gt;Dune by Frank Herbert&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Weeknotes - Week 1 - 2023</title>
       <link>https://www.eoinhurrell.com/posts/weeknotes_week_1_2023/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.eoinhurrell.com/posts/weeknotes_week_1_2023/</guid>
-      <description>Beginning with work year with a hackathon An excuse to further my Rust learning, and work with a couple of engineers who know more than me on the topic, I learned a lot. Types provide so much, it would be unwise to forget their power and place (felt rusty after years away!)
-Some links I found helpful:
-https://github.com/rochacbruno/py2rs https://google.github.io/comprehensive-rust/ into_rust(): screencasts for learning Rust Commentary:
-Thoughts on Rust After Six Months Rust for Data Engineering—what&amp;rsquo;s the Hype About?</description>
+      <description>&lt;h2 id=&#34;beginning-with-work-year-with-a-hackathon&#34;&gt;Beginning with work year with a hackathon&lt;/h2&gt;
+&lt;p&gt;An excuse to further my Rust learning, and work with a couple of engineers who
+know more than me on the topic, I learned a lot. Types provide so much, it would
+be unwise to forget their power and place (felt rusty after years away!)&lt;/p&gt;
+&lt;p&gt;Some links I found helpful:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/rochacbruno/py2rs&#34;&gt;https://github.com/rochacbruno/py2rs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://google.github.io/comprehensive-rust/&#34;&gt;https://google.github.io/comprehensive-rust/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://intorust.com/&#34;&gt;into_rust(): screencasts for learning Rust&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Commentary:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://127.io/2019/02/22/rust-six-months-later/&#34;&gt;Thoughts on Rust After Six Months&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.adventofdata.com/rust-for-data-engineering/&#34;&gt;Rust for Data Engineering—what&amp;rsquo;s the Hype About? 🦀&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;things-i-ve-been-reading&#34;&gt;Things I&amp;rsquo;ve been reading&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://lspace.swyx.io/p/reverse-prompt-eng&#34;&gt;Reverse Prompt Engineering for Fun and (no) Profit&lt;/a&gt; - Notion&amp;rsquo;s use of ChatGPT
+has been backward-engineered. Interesting to see prompts powering product
+features.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.darkreading.com/application-security/200m-twitter-profiles-dumped-dark-web-free-including-emails&#34;&gt;200M Twitter Profiles, With Email Addys, Dumped on Dark Web for Free&lt;/a&gt; - more
+fun times for Twitter&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.lockedinspace.com/posts/001.html&#34;&gt;General Guidance When Working as a Cloud Engineer&lt;/a&gt; - General good advice on
+engineering work heading into the new year.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://thedorkweb.substack.com/p/the-100-year-computer&#34;&gt;The 100 Year Computer&lt;/a&gt; - computer as heirloom would be a wonderful thing. I
+hope my notes at least become something I can pass along&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.theguardian.com/lifeandstyle/2022/dec/24/alex-horne-secret-to-cult-show-taskmaster-offbeat-but-not-wacky-off-kilter-but-not-bonkers&#34;&gt;Alex Horne on the Secret to His Cult Show Taskmaster&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;i-ll-be-reading-neuromancer&#34;&gt;I&amp;rsquo;ll be reading Neuromancer&lt;/h2&gt;
+&lt;p&gt;Book club&amp;rsquo;s next pick. Read it years ago, looking forward to it, remember it
+being great and I read Gibson&amp;rsquo;s amazing Pattern Recognition last year.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

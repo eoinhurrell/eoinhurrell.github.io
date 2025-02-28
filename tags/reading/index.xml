@@ -4,7 +4,7 @@
     <title>Reading on </title>
     <link>https://www.eoinhurrell.com/tags/reading/</link>
     <description>Recent content in Reading on </description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <atom:link href="https://www.eoinhurrell.com/tags/reading/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,7 +12,28 @@
       <link>https://www.eoinhurrell.com/posts/top_books_i_read_in_2022/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.eoinhurrell.com/posts/top_books_i_read_in_2022/</guid>
-      <description> Non-Fiction Ethics by Baruch de Spinoza The Staff Engineer&amp;rsquo;s Path by Tanya Reilly Fiction Peace by Gene Wolfe The Heart of a Dog by Mikhail Bulgakov The Wasp Factory by Iain Banks The Romance of the Three Kingdoms Mason &amp;amp; Dixon by Thomas Pynchon Last Days by Brian Evenson Pattern Recognition by William Gibson The Sailor Who Fell from Grace with the Sea by Yukio Mishima The Secret History by Donna Tartt Dune by Frank Herbert </description>
+      <description>&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://www.eoinhurrell.com/ox-hugo/top-books.png&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;non-fiction&#34;&gt;Non-Fiction&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ethics by Baruch de Spinoza&lt;/li&gt;
+&lt;li&gt;The Staff Engineer&amp;rsquo;s Path by Tanya Reilly&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;fiction&#34;&gt;Fiction&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Peace by Gene Wolfe&lt;/li&gt;
+&lt;li&gt;The Heart of a Dog by Mikhail Bulgakov&lt;/li&gt;
+&lt;li&gt;The Wasp Factory by Iain Banks&lt;/li&gt;
+&lt;li&gt;The Romance of the Three Kingdoms&lt;/li&gt;
+&lt;li&gt;Mason &amp;amp; Dixon by Thomas Pynchon&lt;/li&gt;
+&lt;li&gt;Last Days by Brian Evenson&lt;/li&gt;
+&lt;li&gt;Pattern Recognition by William Gibson&lt;/li&gt;
+&lt;li&gt;The Sailor Who Fell from Grace with the Sea by Yukio Mishima&lt;/li&gt;
+&lt;li&gt;The Secret History by Donna Tartt&lt;/li&gt;
+&lt;li&gt;Dune by Frank Herbert&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
