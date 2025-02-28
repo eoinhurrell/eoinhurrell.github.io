@@ -159,6 +159,17 @@
     posthog.init('{{ getenv "POSTHOG_API_KEY" }}', {
         api_host: 'https://us.i.posthog.com',
         person_profiles: 'identified_only', // or 'always' to create profiles for anonymous users as well
+    cross_subdomain_cookie: false,
+    secure_cookie: true,
+    xhr_headers: {
+        'Access-Control-Allow-Origin': '*',
+        'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
+        'Access-Control-Allow-Headers': 'Content-Type',
+        'Origin': window.location.origin
+    },
+    loaded: function(posthog) {
+        console.log('PostHog loaded successfully');
+    }
     })
 </script>
 {{- end -}}
