@@ -1,6 +1,7 @@
 baseURL: "https://www.eoinhurrell.com/"
 # title: Inverse Propensity
-paginate: 5
+pagination:
+  pagerSize: 5
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -19,6 +20,7 @@ security:
     getenv:
       - "^HUGO_"
       - "^POSTHOG_API_KEY$"
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   # title: Inverse Propensity
