@@ -6,8 +6,19 @@
     <description>Recent content on </description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.eoinhurrell.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RetentionCast</title>
+      <link>https://www.eoinhurrell.com/posts/20250221-retentioncast/</link>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.eoinhurrell.com/posts/20250221-retentioncast/</guid>
+      <description>&lt;h1 id=&#34;retentioncast-building-real-time-churn-prediction-with-change-data-capture&#34;&gt;RetentionCast: Building Real-Time Churn Prediction with Change Data Capture&lt;/h1&gt;
+&lt;h2 id=&#34;tldr&#34;&gt;TL;DR&lt;/h2&gt;
+&lt;p&gt;This is a quick write-up of RetentionCast, a system I built to predict customer churn in real-time using Change Data Capture. The system processes live transaction data through Kafka and Debezium to calculate churn probability and Customer Lifetime Value. Check out the &lt;a href=&#34;https://github.com/eoinhurrell/RetentionCast&#34;&gt;GitHub repo&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;the-churn-problem&#34;&gt;The Churn Problem&lt;/h2&gt;
+&lt;p&gt;If you&amp;rsquo;ve worked in e-commerce or SaaS, you know customer churn is the silent killer of growth. Traditional approaches to churn prediction often involve batch processing - running models overnight on yesterday&amp;rsquo;s data. But by the time you&amp;rsquo;ve identified that a customer is at risk, they might already be gone.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Easy Semantic Search with Custom Vector Embeddings and Typesense</title>
       <link>https://www.eoinhurrell.com/posts/20240603-easy-semantic-search-typsesense/</link>
