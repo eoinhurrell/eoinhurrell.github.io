@@ -1,12 +1,10 @@
 +++
-title = "RetentionCast"
+title = "RetentionCast: Building Real-Time Churn Prediction with Change Data Capture"
 author = ["Eoin H"]
 publishDate = 2025-02-21T00:00:00+00:00
 tags = ["post", "project"]
 draft = false
 +++
-
-# RetentionCast: Building Real-Time Churn Prediction with Change Data Capture
 
 ## TL;DR
 
