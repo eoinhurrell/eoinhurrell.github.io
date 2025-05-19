@@ -4,10 +4,20 @@
     <title></title>
     <link>https://www.eoinhurrell.com/</link>
     <description>Recent content on </description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo -- 0.147.3</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.eoinhurrell.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inboxer: A Plugin for Obsidian</title>
+      <link>https://www.eoinhurrell.com/posts/20250519-inboxer-an-obsidian-plugin/</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.eoinhurrell.com/posts/20250519-inboxer-an-obsidian-plugin/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m excited to announce that &lt;a href=&#34;https://github.com/eoinhurrell/obsidian-inboxer&#34;&gt;Inboxer&lt;/a&gt;, a small Obsidian plugin I created for my own workflow, is now available in Obsidian through Community Plugins.&lt;/p&gt;
+&lt;p&gt;As an ML engineer, I spend a lot of time in Obsidian managing research notes, and I kept running into an annoying workflow issue.&lt;/p&gt;
+&lt;h2 id=&#34;the-problem&#34;&gt;The Problem&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;d found there was a lot of friction when trying to add details to a note, say a project or an idea, in a structured way. I&amp;rsquo;m in the habit of keeping an &amp;lsquo;INBOX&amp;rsquo; heading where I can append random thoughts, links, websites etc, and for projects a &amp;lsquo;TIMELINE&amp;rsquo; heading to record events and progress. It became annoying switching to a note, finding the heading and adding a subheading whenever I had new information. Context switching kills my flow, and those small interruptions add up.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Building a Multi-Agent Code Review System Using the Viable System Model</title>
       <link>https://www.eoinhurrell.com/posts/20250306-viable-systems-ai/</link>
