@@ -4,7 +4,7 @@
     <title></title>
     <link>https://www.eoinhurrell.com/</link>
     <description>Recent content on </description>
-    <generator>Hugo -- 0.148.2</generator>
+    <generator>Hugo -- 0.162.1</generator>
     <language>en</language>
     <lastBuildDate>Mon, 19 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.eoinhurrell.com/index.xml" rel="self" type="application/rss+xml" />
@@ -69,7 +69,8 @@
 &lt;p&gt;&lt;a href=&#34;https://quad.writeas.com/how-i-give-formal-written-feedback&#34;&gt;How I Give Formal Written Feedback&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Primary thing of note I read this week. Good guidelines on an explicit process
-for feedback.&lt;/p&gt;&lt;/blockquote&gt;</description>
+for feedback.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>Weeknotes - Week 8 - 2023</title>
@@ -80,12 +81,14 @@ for feedback.&lt;/p&gt;&lt;/blockquote&gt;</description>
 &lt;p&gt;&lt;a href=&#34;https://www.wired.com/2023/01/geeks-guide-gene-wolfe/&#34;&gt;Gene Wolfe Was Sci-Fi’s Most Enigmatic Writer&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Always good to read about Wolfe and the slight renaissance his work is seeing.&lt;/p&gt;
-&lt;p&gt;Interesting to learn Wolfe&amp;rsquo;s papers are in Northern Illinois University&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Interesting to learn Wolfe&amp;rsquo;s papers are in Northern Illinois University&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://md.ekstrandom.net/blog/2022/12/tools&#34;&gt;2022 State of the Tools&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;I&amp;rsquo;ll frequently read about how other people set up their work, just to learn
 about tools people find useful.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;d forgotten about mosh, glad to see it seeing use.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;I&amp;rsquo;d forgotten about mosh, glad to see it seeing use.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://phsoftware.substack.com/p/why-programmers-burnout-into-existential&#34;&gt;Why Programmers Burnout Into Existential Depression: The Broken Promise of Computing&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -101,7 +104,8 @@ about tools people find useful.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;A lot of chatGPT reading this week, a lot of experts understandably skeptical,
 or worse, missing its flaws and being overly impressed. Chat continues to be a
-poor search interface though.&lt;/p&gt;&lt;/blockquote&gt;</description>
+poor search interface though.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>Weeknotes - Week 6 - 2023</title>
@@ -113,10 +117,12 @@ poor search interface though.&lt;/p&gt;&lt;/blockquote&gt;</description>
 &lt;blockquote&gt;
 &lt;p&gt;A lot to take from this, Amatriain has both assembled architectures from
 industry leaders and revisited his own work at some of the biggest recsys
-companies in the world.&lt;/p&gt;&lt;/blockquote&gt;
+companies in the world.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://paulw.tokyo/post/real-time-semantic-search-demo/&#34;&gt;Real-Time Semantic Search Demo&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;I&amp;rsquo;ve built a few systems like this, it&amp;rsquo;s great to see they are getting easier to build.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;I&amp;rsquo;ve built a few systems like this, it&amp;rsquo;s great to see they are getting easier to build.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.worldofbs.com/minimize-state/&#34;&gt;All Programming Philosophies Are About State&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;All code is data, I&amp;rsquo;m sure of it.&lt;/p&gt;</description>
@@ -133,10 +139,12 @@ companies in the world.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Reading a bit about search as Yandex&amp;rsquo;s source code was leaked. Interesting to
 get some insight into what factors are considered for ranking, age of links is a
-novel one.&lt;/p&gt;&lt;/blockquote&gt;
+novel one.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://astridannerose.gumroad.com/l/CBPXt?layout=profile&#34;&gt;Two Hunters by Astrid Anne Rose&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;A short horror story I thought was pretty good, some strong imagery.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;A short horror story I thought was pretty good, some strong imagery.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://riclage.medium.com/what-problem-are-you-trying-to-solve-b7ac284244b9&#34;&gt;What Problem Are You Trying to Solve?&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -149,12 +157,16 @@ novel one.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;A fun show, pointing out as they begin Planescape Torment how much it and its
 setting owe to the work of Gene Wolfe, specifically The Book of The New Sun, but
-I think Latro in the Mist would be another apt touchstone.&lt;/p&gt;&lt;/blockquote&gt;
+I think Latro in the Mist would be another apt touchstone.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h2 id=&#34;reading&#34;&gt;Reading&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://rodneybrooks.com/predictions-scorecard-2023-january-01/&#34;&gt;Predictions Scorecard, 2023 January 01&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Rodney Brooks continues to bring sobering facts to much-hyped discussion.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://betterprogramming.pub/the-dangers-of-over-engineering-d8c0d52b880a&#34;&gt;The Dangers of Over-Engineering&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;Rodney Brooks continues to bring sobering facts to much-hyped discussion.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://betterprogramming.pub/the-dangers-of-over-engineering-d8c0d52b880a&#34;&gt;The Dangers of Over-Engineering&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Thinking a lot about simplification and connecting engineering priorities and business priorities.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Weeknotes - Week 3 - 2023</title>
