@@ -3,7 +3,7 @@ title = "Weeknotes - Week 2 - 2023"
 author = ["Eoin H"]
 publishDate = 2023-01-15T00:00:00+00:00
 tags = ["post"]
-draft = false
+draft = true
 +++
 
 ## Swrve got acquired {#swrve-got-acquired}

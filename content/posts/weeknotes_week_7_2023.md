@@ -3,7 +3,7 @@ title = "Weeknotes - Week 7 - 2023"
 author = ["Eoin H"]
 publishDate = 2023-02-19T00:00:00+00:00
 tags = ["post", "weeknotes"]
-draft = false
+draft = true
 +++
 
 ## Reading {#reading}

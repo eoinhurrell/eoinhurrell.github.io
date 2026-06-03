@@ -2,7 +2,7 @@
 title = "Top Books I Read in 2022"
 author = ["Eoin H"]
 tags = ["reading", "post", 2022]
-draft = false
+draft = true
 +++
 
 {{< figure src="/ox-hugo/top-books.png" >}}

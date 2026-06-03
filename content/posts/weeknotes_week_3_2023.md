@@ -3,7 +3,7 @@ title = "Weeknotes - Week 3 - 2023"
 author = ["Eoin H"]
 publishDate = 2023-01-22T00:00:00+00:00
 tags = ["post", "weeknotes"]
-draft = false
+draft = true
 +++
 
 ## The Iliad {#the-iliad}

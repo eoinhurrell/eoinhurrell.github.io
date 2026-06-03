@@ -2,3 +2,7 @@ _site
 .sass-cache
 .jekyll-metadata
 resources/_gen/*
+plan.html
+03_persona_profile.md
+AGENTS.md
+public/

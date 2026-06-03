@@ -2,7 +2,7 @@
 title = "Weeknotes - Week 1 - 2023"
 author = ["Eoin H"]
 tags = ["post", "weeknotes"]
-draft = false
+draft = true
 +++
 
 ## Beginning with work year with a hackathon {#beginning-with-work-year-with-a-hackathon}

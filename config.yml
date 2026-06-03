@@ -1,5 +1,5 @@
 baseURL: "https://www.eoinhurrell.com/"
-# title: Inverse Propensity
+title: "Eoin Hurrell"
 pagination:
   pagerSize: 5
 theme: PaperMod
@@ -22,8 +22,8 @@ security:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   # title: Inverse Propensity
-  description: "Eoin Hurrell's site"
-  keywords: [Blog, Portfolio]
+  description: "Eoin Hurrell writes about retrieval systems, search, RAG evaluation, and the measurement discipline production AI needs."
+  keywords: [retrieval, search, RAG, information retrieval, evaluation, ranking, production AI]
   author: Eoin Hurrell
   # author: ["Me", "You"] # multiple authors
   # images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -61,12 +61,12 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Eoin Hurrell, PhD
-    subtitle: "I solve problems with data"
+    title: Eoin Hurrell
+    subtitle: "PhD Information Retrieval. Building production retrieval systems — search, ranking, RAG, and the evaluation discipline most teams skip."
     imageUrl: "profile.jpg"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my image
+    imageTitle: Eoin Hurrell
     buttons:
       - name: Posts
         url: posts
@@ -114,20 +114,16 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
-# menu:
-#   main:
-#     - identifier: categories
-#       name: categories
-#       url: /categories/
-#       weight: 10
-#     - identifier: tags
-#       name: tags
-#       url: /tags/
-#       weight: 20
-#     - identifier: example
-#       name: example.org
-#       url: https://example.org
-#       weight: 30
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
