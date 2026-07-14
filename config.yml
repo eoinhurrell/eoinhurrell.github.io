@@ -62,7 +62,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Eoin Hurrell
-    subtitle: "PhD Information Retrieval. Building production retrieval systems — search, ranking, RAG, and the evaluation discipline most teams skip."
+    subtitle: "Principal Engineer · Building production retrieval systems for the agentic era · PhD in Information Retrieval"
     imageUrl: "profile.jpg"
     imageWidth: 120
     imageHeight: 120
