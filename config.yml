@@ -79,8 +79,6 @@ params:
   #   Content: Welcome to my blog
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/eoinhurrell"
     - name: linkedin
       url: "https://linkedin.com/in/eoinhurrell"
     - name: github
