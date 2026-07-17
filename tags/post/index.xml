@@ -6,8 +6,16 @@
     <description>Recent content in Post on Eoin Hurrell</description>
     <generator>Hugo -- 0.164.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.eoinhurrell.com/tags/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Reranker Tax: When a Smart Layer Can&#39;t Save a Weak Foundation</title>
+      <link>https://www.eoinhurrell.com/posts/20260717-the-reranker-tax/</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.eoinhurrell.com/posts/20260717-the-reranker-tax/</guid>
+      <description>&lt;p&gt;Every time you choose to add complexity rather than measure and improve the system you already have, you gamble with your time and your focus. The new component arrives with a tax — latency, cost, more moving parts to operate — and it pays off only when the thing underneath it was already doing its job. Without a solid foundation and good measurement, the upgrade is motion, not progress.&lt;/p&gt;
+&lt;p&gt;This is a post about one instance of that gamble — adding a reranker to a search system — and how the same shape repeats somewhere less obvious: the AI agent you point at a search tool you built. In both cases the temptation is to say &amp;ldquo;the smart layer will sort it out.&amp;rdquo; It won&amp;rsquo;t. A smart layer can only refine what the layer beneath it hands it.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Inboxer: A Plugin for Obsidian</title>
       <link>https://www.eoinhurrell.com/posts/20250519-inboxer-an-obsidian-plugin/</link>
